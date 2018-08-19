@@ -1,0 +1,21 @@
+/*
+Theme Name: Mi primer tema
+Theme URI: URL donde haya información de tu tema
+Author: Andrea Bustamante
+Author URI: URL del autor del tema
+Description: Breve descripción
+Version: Número de versión (p.e. 1.0)
+License: Licencia (p.e. GNU General Public License v2 or later)
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: etiquetas
+Text Domain: Identificador para hacer tu tema traducible
+*/
+* {
+  box-sizing: border-box;
+
+}
+
+body {
+    background-color: #f9f9f9;
+    font-family: Helvetica;
+}
